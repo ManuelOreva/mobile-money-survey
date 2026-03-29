@@ -1,2 +1,2 @@
-# mobile-money-survey
-This project collects user feedback about mobile money utilisation in Africa.
+# Recon-Edge Site
+This project helps businesses reach out regarding their data analytics needs.
